@@ -19,7 +19,7 @@ The training notebooks for both ResNet and VGG16 models are provided in this rep
 ## Real-time Emotion Recognition
 To run the real-time emotion recognition script, follow these steps:
 
--> Ensure all dependencies are installed.
+-> Ensure all dependencies are installed.  <br>
 -> Download the pre-trained ResNet and VGG16 models and place them in the appropriate directories.
 Run the provided real-time emotion recognition script (real_time_emotion_recognition.py).
 
