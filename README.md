@@ -27,4 +27,4 @@ Run the provided real-time emotion recognition script (real_time_emotion_recogni
 __________________________________________
 
 
-For any questions or issues, please contact [lakshitupreti@gmail.com]. Thank you for using our Emotion Recognition repository!
+Feel free to customize and expand upon this README as needed for your project!
